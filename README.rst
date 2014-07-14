@@ -2,6 +2,12 @@
 lfe-utils
 #########
 
+Deprecated
+==========
+
+This project has been deprecated in favor of `lutil`_ (which has 100% inherited from lfe-utils).
+
+
 Introduction
 ============
 
@@ -63,3 +69,4 @@ Usage is the same as any other Erlang or LFE library :-)
 .. _rebar: https://github.com/rebar/rebar
 .. _LFE: https://github.com/rvirding/lfe
 .. _lfeunit: https://github.com/lfe/lfeunit
+.. _lutil: https://github.com/lfex/lutil
